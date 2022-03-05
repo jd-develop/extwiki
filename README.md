@@ -1,12 +1,12 @@
-# Jean Dubois' Extensions Wiki
+## Jean Dubois' Extensions Wiki
  Welcome to extwiki! This is a wiki of existing extensions.
 
-# Extensions :
+## Extensions :
 
 * [.md](exts/md.md)
 * [.py](exts/py.md)
 
-# Software :
+## Software :
 * [IntelliJ](software/IntelliJ.md)
 * [Notepad++](software/npp.md)
 * [PyCharm](software/PyCharm.md)
