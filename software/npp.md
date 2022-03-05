@@ -1,5 +1,4 @@
 # Notepad++
-[home](../)
 
 Notepad++ is a notepad and a multi-language IDE.
 

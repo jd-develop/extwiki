@@ -1,5 +1,4 @@
 # IntelliJ
-[home](../)
 
 IntelliJ (or IntelliJ IDEA) is a Java IDE by JetBrains.
 

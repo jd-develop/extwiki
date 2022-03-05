@@ -1,5 +1,4 @@
 # IntelliJ
-[home](../)
 
 PyCharm is a Python IDE by JetBrains.
 

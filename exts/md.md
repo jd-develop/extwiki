@@ -1,5 +1,4 @@
 # .md
-[home](../)
 
 .md files are [Markdown files](https://en.wikipedia.org/wiki/Markdown).
 Markdown is a markup language.

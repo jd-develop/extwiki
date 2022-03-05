@@ -1,5 +1,4 @@
 # IntelliJ
-[home](../)
 
 PyCharm is a multi-language IDE by Microsoft.
 
