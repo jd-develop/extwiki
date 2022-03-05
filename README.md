@@ -8,6 +8,7 @@
 * [.py](exts/py.md)
 
 ## Software :
+* [Golly](software/golly.md)
 * [IDLE](software/IDLE.md)
 * [IntelliJ](software/IntelliJ.md)
 * [Notepad++](software/npp.md)
