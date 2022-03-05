@@ -1,9 +1,10 @@
 # Jean Dubois' Extensions Wiki
- Welcome ! Here is a wiki of existing extensions.
+ Welcome to extwiki! This is a wiki of existing extensions.
 
 # Extensions :
 
 * [.md](exts/md.md)
+* [.py](exts/py.md)
 
 # Software :
 * [IntelliJ](software/IntelliJ.md)
