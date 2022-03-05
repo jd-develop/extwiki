@@ -1,7 +1,6 @@
-# .md
+# .fle
 
-.md files are [Python files](https://en.wikipedia.org/wiki/Python_(programming_language)).
-Python is a hight-level programming language created by Guido van Rossum.
+.fle files are template files for cellular automatas, like [Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 # Software
 ## Edit

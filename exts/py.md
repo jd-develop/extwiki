@@ -1,6 +1,6 @@
-# .md
+# .py
 
-.md files are [Python files](https://en.wikipedia.org/wiki/Python_(programming_language)).
+.py files are [Python files](https://en.wikipedia.org/wiki/Python_(programming_language)).
 Python is a hight-level programming language created by Guido van Rossum.
 
 # Software
